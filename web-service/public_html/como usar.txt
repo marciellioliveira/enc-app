@@ -1,0 +1,15 @@
+*Primeiro Cadastro
+
+http://localhost/sites/bd/gravar.php?email=ma@gmail.com&senha=123
+
+*Login
+http://localhost/sites/bd/verifica_login.php?email=ma@gmail.com&senha=123
+
+*Inserir/Alterar (Você) dados pessoais
+http://localhost/sites/bd/alterar.php?email=ma@gmail.com&nome=Marcielli&sobrenome=Oliveira&endereco=Rua%20tatata%20numero%2012&cidade=Cachoeira%20Paulista&estado=SP&idade=01/12/1990
+
+*Inserir/Alterar Latitude/Longitude/Endereço Atual
+http://localhost/sites/bd/alterar_corrida.php?email=ma@gmail.com&lat=123.123&lon=123.764&end=rua%20tavarez%20da%20silva
+
+*Inserir/Alterar Histórico Médico
+http://localhost/sites/bd/alterar_histmed.php?email=ma@gmail.com&convmedic=Unimed&doadororg=Sim&doadorsang=Sim&tiposang=A+&alergaliment=N%C3%A3o&alergmedic=Sim,%20Analgesico&temdoenc=N%C3%A3o&temcirurg=N%C3%A3o&temintern=N%C3%A3o
